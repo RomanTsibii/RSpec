@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3b32481-317d-4659-bc19-710a7ea474f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spec/card_spec.rb" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1WYYlxAHayxlPkHU33rTANNPZoK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3b32481-317d-4659-bc19-710a7ea474f6" name="Default Changelist" comment="" />
+      <created>1579328151595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579328151595</updated>
+      <workItem from="1579328174051" duration="1784000" />
+      <workItem from="1579505784238" duration="5189000" />
+      <workItem from="1579517943329" duration="6386000" />
+      <workItem from="1579582383257" duration="3996000" />
+      <workItem from="1579690011134" duration="3100000" />
+      <workItem from="1579696612910" duration="815000" />
+      <workItem from="1579697542342" duration="105000" />
+      <workItem from="1579697799514" duration="2412000" />
+      <workItem from="1579700608468" duration="1877000" />
+      <workItem from="1579710902403" duration="571000" />
+      <workItem from="1579711618324" duration="1436000" />
+      <workItem from="1580024604620" duration="5535000" />
+      <workItem from="1580041756831" duration="607000" />
+      <workItem from="1580138217593" duration="3646000" />
+      <workItem from="1580208321806" duration="3004000" />
+      <workItem from="1580214744239" duration="4330000" />
+      <workItem from="1580298599290" duration="8372000" />
+      <workItem from="1580373228350" duration="7177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1579705236944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579705236944" />
+    <state x="311" y="58" width="800" height="677" key="#Plugins" timestamp="1579697906684">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Plugins/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579697906684" />
+    <state x="383" y="189" width="657" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579696255616">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="383" y="189" width="657" height="414" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579696255616" />
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog" timestamp="1579696897005">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579696897005" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579709543967">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579709543967" />
+    <state x="213" y="31" key="SettingsEditor" timestamp="1580031112620">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="213" y="31" key="SettingsEditor/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580031112620" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579516227268">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579516227268" />
+    <state x="441" y="304" width="540" height="184" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579696846673">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="304" width="540" height="184" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579696846673" />
+  </component>
+</project>

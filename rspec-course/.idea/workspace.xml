@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b32481-317d-4659-bc19-710a7ea474f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spec/allow_method_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/spec/card_spec.rb" root0="SKIP_HIGHLIGHTING" />
@@ -25,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -32,7 +39,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -85,10 +92,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1579705236944">
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1580671235809">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579705236944" />
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580671235809" />
     <state x="311" y="58" width="800" height="677" key="#Plugins" timestamp="1579697906684">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -105,22 +112,26 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1579709543967" />
-    <state x="213" y="31" key="SettingsEditor" timestamp="1580031112620">
+    <state x="213" y="31" key="SettingsEditor" timestamp="1580671304758">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="213" y="31" key="SettingsEditor/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580031112620" />
+    <state x="213" y="31" key="SettingsEditor/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580671304758" />
     <state x="440" y="89" width="543" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580640687927">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="440" y="89" width="543" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580640687927" />
-    <state x="497" y="311" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580639952114">
+    <state x="497" y="311" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580668355016">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="497" y="311" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580639952114" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580555388214">
+    <state x="497" y="311" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580668355016" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1580670968956">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580555388214" />
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580670968956" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580670945912">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1580670945912" />
     <state x="441" y="304" width="540" height="184" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579696846673">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

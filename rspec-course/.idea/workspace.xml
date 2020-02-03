@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b32481-317d-4659-bc19-710a7ea474f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/matching_argument_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/..gitignore.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/instance_doubles_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1580458885889" duration="8626000" />
       <workItem from="1580545736231" duration="5987000" />
       <workItem from="1580639877437" duration="3001000" />
-      <workItem from="1580726013826" duration="2344000" />
+      <workItem from="1580726013826" duration="6935000" />
     </task>
     <servers />
   </component>

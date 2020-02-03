@@ -1,3 +1,5 @@
-#rspec-course/.idea/*
+rspec-course/.idea/*
 new
 rspec-course/.idea/workspace.xml
+.gitignore.*
+.gitignore
